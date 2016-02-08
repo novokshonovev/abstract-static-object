@@ -1,6 +1,6 @@
 {
   "name": "novokshonovev/abstract-static-object",
-  "description": "AbstractStaticObject - базовый класс для создания статических (определяемых на уровне кода) статических справочников",
+  "description": "AbstractStaticObject - базовый класс для создания статических (определяемых на уровне кода) справочников",
   "homepage": "https://github.com/novokshonovev/abstract-static-object",
   "minimum-stability": "stable",
   "license": "proprietary",
