@@ -12,7 +12,8 @@
   },
   "autoload": {
     "classMap": [
-      ""
+      "IStaticObject.php",
+      "AbstractStaticObject.php"
     ]
   }
 }
