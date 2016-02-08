@@ -1,18 +1,11 @@
-# abstract-static-object
-
-Базовый класс для создания статических (определяемых на уровне кода) статических справочников
-
-## Установка
-
-TODO
-
-## Пример использования
-
-```php
 <?php
+
 namespace common\models;
+
+
 use dowlatow\components\AbstractStaticObject;
 use Yii;
+
 class UserStatus extends AbstractStaticObject
 {
     const MODERATION = 1;
@@ -66,4 +59,3 @@ class UserStatus extends AbstractStaticObject
     }
 
 }
-```
