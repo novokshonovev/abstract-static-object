@@ -1,8 +1,15 @@
 {
   "name": "dowlatow/abstract-static-object",
   "description": "AbstractStaticObject - базовый класс для создания статических (определяемых на уровне кода) статических справочников",
+  "homepage": "https://github.com/novokshonovev/abstract-static-object",
   "minimum-stability": "stable",
   "license": "proprietary",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/novokshonovev/abstract-static-object"
+    }
+  ],
   "require": {
     "php": ">=5.4.0",
     "yiisoft/yii2": ">=2.0.5"

@@ -4,7 +4,8 @@
 
 ## Установка
 
-TODO
+1. gitHub: https://github.com/novokshonovev/abstract-static-object.git
+2. composer : TODO
 
 ## Пример использования
 
