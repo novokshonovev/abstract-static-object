@@ -4,6 +4,7 @@
   "homepage": "https://github.com/novokshonovev/abstract-static-object",
   "minimum-stability": "stable",
   "license": "proprietary",
+  "version": "dev-master",
   "require": {
     "php": ">=5.4.0",
     "yiisoft/yii2": ">=2.0.5"
