@@ -4,8 +4,27 @@
 
 ## Установка
 
-1. gitHub: https://github.com/novokshonovev/abstract-static-object.git
-2. composer : TODO
+1. Загрузить через git: https://github.com/novokshonovev/abstract-static-object.git
+или 
+2. Установка через composer 
+2.1 Добавить в composer.json проекта:
+* репозиторий 
+```json
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/novokshonovev/abstract-static-object"
+        }
+    ],
+```
+* и зависимость
+```json
+    "require": {
+    ...
+        "novokshonovev/abstract-static-object": "dev-master"
+    },
+```
+2.2 Выполнить установку: ``composer install``
 
 ## Пример использования
 
