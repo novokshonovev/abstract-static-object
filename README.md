@@ -20,7 +20,6 @@
 * и зависимость
 ```json
     "require": {
-    ...
         "novokshonovev/abstract-static-object": "dev-master"
     },
 ```
