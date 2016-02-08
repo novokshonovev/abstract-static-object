@@ -1,5 +1,5 @@
 {
-  "name": "dowlatow/abstract-static-object",
+  "name": "novokshonovev/abstract-static-object",
   "description": "AbstractStaticObject - базовый класс для создания статических (определяемых на уровне кода) статических справочников",
   "homepage": "https://github.com/novokshonovev/abstract-static-object",
   "minimum-stability": "stable",
