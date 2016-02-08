@@ -12,7 +12,7 @@
   },
   "autoload": {
     "psr-4": {
-      "novokshonovev\\dowlatow\\components\\": ""
+      "dowlatow\\components\\": ""
     }
   }
 }
