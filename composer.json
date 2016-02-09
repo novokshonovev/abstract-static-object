@@ -1,5 +1,5 @@
 {
-  "name": "novokshonovev/abstract-static-object",
+  "name": "dowlatow/abstract-static-object",
   "description": "AbstractStaticObject - базовый класс для создания статических (определяемых на уровне кода) справочников",
   "type": "library",
   "license": "proprietary",

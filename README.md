@@ -1,6 +1,6 @@
 # abstract-static-object
 
-Базовый класс для создания статических (определяемых на уровне кода) статических справочников
+AbstractStaticObject - базовый класс для создания статических (определяемых на уровне кода) статических справочников
 
 ## Установка
 
@@ -20,7 +20,7 @@
 * и зависимость
 ```json
     "require": {
-        "novokshonovev/abstract-static-object": "dev-master"
+        "dowlatow/abstract-static-object": "dev-master"
     },
 ```
 2.2 Выполнить установку: ``composer install``
